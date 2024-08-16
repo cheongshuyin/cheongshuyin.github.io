@@ -1,13 +1,15 @@
-# shuyin.github.io
+# cheongshuyin.github.io
 
 # Shu yin's profile page
 -----
 Hi! I am studying at **SUSS**.
 My research interest:
-1. xxx
-2. yyy
-3. zzz
+1. **Bolding texts**
+2. *Italicising texts*
+3. ~~Strikingthrough texts~~
 
+![Tiramisu](tiramusu)
+-----
 
 
 Alternatively, for H1 and H2, an underline-ish style:
